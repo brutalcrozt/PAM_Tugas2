@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">Tugas 2- 672019710</string>
+  <string name="app_title">DOTA 2</string>
+  <string name="hero_desc">DOTA 2 is more fun to play with your friends.</string>
+  <string name="str">Strength</string>
+  <string name="agi">Aglity</string>
+  <string name="intl">Intelligence</string>
+  <string name="image_desc">Hero image</string>
+  <string name="switch_text">Night Mode</string>
+</resources>
